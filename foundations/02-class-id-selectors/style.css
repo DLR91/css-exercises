@@ -1,0 +1,20 @@
+.pe {
+    background-color: rgb(183, 43, 226);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.third {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#firstid {
+    color: rgb(18, 18, 179);
+    font-size: 36px;
+}
+
+#secondid {
+    background-color: rgb(15, 174, 95);
+    font-size: 24px;
+    font-weight: bold;
+}
